@@ -1,6 +1,6 @@
 body{
     height:100vh;
-    background-image:url(images/picture-1247354.jpg);
+    background-image:url(picture-1247354.jpg);
     background-size:cover;
     background-position:center;
     background-repeat:no-repeat;
@@ -33,7 +33,7 @@ ul{
 .tombol button[name="tombolig"]{
     width:90px;
     height:90px;
-    background-image: url(images/igicon.jpg);
+    background-image: url(igicon.jpg);
     background-size:100px;
     background-position: center;
     border-radius:20px;
@@ -71,7 +71,7 @@ ul{
 .tombol button[name="tomboltt"]{
        width:90px;
     height:90px;
-    background-image: url(images/icontiktok.png);
+    background-image: url(icontiktok.png);
     background-size:100px;
     background-position: center;
     border-radius:20px;
@@ -103,3 +103,4 @@ h1{
     font-size:30px
 
 }
+
